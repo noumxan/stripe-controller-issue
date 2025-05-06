@@ -19,6 +19,7 @@ class SubscriptionPlan extends Model
         'description',
         'base_price',
         'type',
+        'included_practitioners',
     ];
 
     /**
